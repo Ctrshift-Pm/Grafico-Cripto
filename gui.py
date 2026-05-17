@@ -68,12 +68,6 @@ class CryptoDashboardApp:
             fg=TEXT_PRI, bg=BG
         ).pack(side="left", anchor="s", pady=(0, 4))
 
-        tk.Label(
-            top, text="Excluindo Stablecoins  ·  Tempo Real",
-            font=("SF Pro Text", 12),
-            fg=TEXT_SEC, bg=BG
-        ).pack(side="left", padx=18, anchor="s", pady=(0, 6))
-
         tk.Frame(self.root, bg=DIVIDER, height=1).pack(side="top", fill="x", padx=40, pady=(12, 0))
 
         footer = tk.Frame(self.root, bg=BG, height=56)

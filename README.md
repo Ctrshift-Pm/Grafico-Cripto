@@ -1,10 +1,10 @@
-# 📊 Dominância Cripto - Dashboard Desktop Real-Time
+# Dominância Cripto - Dashboard Desktop Real-Time
 
-Um aplicativo desktop standalone moderno, de alta performance, desenvolvido em Python. Ele calcula e visualiza a dominância real das 5 categorias mais importantes do mercado de criptomoedas em tempo real, integrando-se diretamente à API da CoinGecko e gerando um gráfico de rosca (Donut Chart) de alto impacto estético.
+Um aplicativo desktop simples, standalone moderno, de alta performance, desenvolvido em Python. Ele calcula e visualiza a dominância real das 5 categorias mais importantes do mercado de criptomoedas em tempo real, integrando-se diretamente à API da CoinGecko e gerando um gráfico de rosca (Donut Chart) de alto impacto estético.
 
 ---
 
-## 📸 Interface e Design
+## Interface e Design
 
 A interface gráfica foi desenhada seguindo os princípios de design minimalista:
 *   **Tema **: Fundo preto absoluto (`#000000`), cartões e elementos estruturais no tom de cinza escuro (`#0A0A0A`), com linhas divisórias de extrema sutileza (`#1C1C1E`).
@@ -16,7 +16,7 @@ A interface gráfica foi desenhada seguindo os princípios de design minimalista
 
 ---
 
-## 💎 Os 5 Segmentos de Mercado Precisos
+## Os 5 Segmentos de Mercado Precisos
 
 Diferente de visualizações genéricas de dominância, este sistema divide o mercado em 5 pilares cirúrgicos:
 
@@ -28,7 +28,7 @@ Diferente de visualizações genéricas de dominância, este sistema divide o me
 
 ---
 
-## 🚀 Como Executar o Projeto em Desenvolvimento
+## Como Executar o Projeto em Desenvolvimento
 
 ### Requisitos Prévios
 *   Python 3.10 ou superior instalado.
@@ -55,7 +55,7 @@ python -m unittest tests/test_crypto_dominance.py
 
 ---
 
-## 📦 Compilando um Executável Standalone (.exe) no Windows
+## Compilando um Executável Standalone (.exe) no Windows
 
 O projeto acompanha um script automatizado de empacotamento (`build_exe.py`). Para gerar o seu executável nativo do Windows que abre com clique duplo diretamente na GUI (sem abrir telas pretas de terminal de comando):
 

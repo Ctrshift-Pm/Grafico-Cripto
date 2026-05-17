@@ -24,7 +24,7 @@ Diferente de visualizações genéricas de dominância, este sistema divide o me
 2.  **Ethereum (ETH.D)**: O percentual de dominância real do maior ecossistema de Smart Contracts.
 3.  **Stablecoins (USDT, USDC, DAI, etc.)**: O porto seguro de liquidez do mercado. Agrupa e soma de forma dinâmica a fatia de todas as stablecoins principais.
 4.  **Top 10 Altcoins (BNB, SOL, XRP, ADA, DOGE, etc.)**: A força motriz das altcoins de maior cap. Soma a dominância dos maiores projetos de utilidade do mercado cripto.
-5.  **OTHERS.D (Cauda Longa / Resto do Mercado)**: O resíduo exato e real do mercado global. Abrange as mais de 14.000 micro-caps ativas na blockchain (calculado de forma matemática ultra-precisa como: $100\% - BTC - ETH - Stablecoins - Top10Alts$).
+5.  **OTHERS.D (Cauda Longa / Resto do Mercado)**: O resíduo exato e real do mercado global. Abrange as mais de 14.000 micro-caps ativas na blockchain (calculado como: (100% - BTC - ETH - Stablecoins - Top10Alts).
 
 ---
 

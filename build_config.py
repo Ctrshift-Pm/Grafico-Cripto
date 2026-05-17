@@ -1,0 +1,11 @@
+APP_NAME = "Dominância Cripto"
+EXE_NAME = "DominanciaCripto"
+PRODUCT_NAME = "Dominância Cripto"
+COMPANY_NAME = "Pedro Matheus Chaves de Freitas"
+FILE_DESCRIPTION = "Dashboard desktop de dominância do mercado cripto em tempo real"
+FILE_VERSION = "1.0.0.0"
+PRODUCT_VERSION = "1.0.0.0"
+VERSION_TUPLE = (1, 0, 0, 0)
+INTERNAL_NAME = "DominanciaCripto"
+ORIGINAL_FILENAME = "DominanciaCripto.exe"
+LEGAL_COPYRIGHT = "Copyright (c) 2026 Pedro Matheus Chaves de Freitas"

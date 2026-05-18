@@ -7,7 +7,7 @@ Um aplicativo desktop simples, standalone moderno, de alta performance, desenvol
 ## Interface e Design
 
 A interface gráfica foi desenhada seguindo os princípios de design minimalista:
-*   **Tema **: Fundo preto absoluto (`#000000`), cartões e elementos estruturais no tom de cinza escuro (`#0A0A0A`), com linhas divisórias de extrema sutileza (`#1C1C1E`).
+*   **Tema**: Fundo preto absoluto (`#000000`), cartões e elementos estruturais no tom de cinza escuro (`#0A0A0A`), com linhas divisórias de extrema sutileza (`#1C1C1E`).
 *   **Donut Chart Simétrico**: Gráfico de rosca elegante com separador preto generoso de `8px` entre as fatias.
 *   **Logotipos Embutidos (Originais & Transparentes)**: Os ícones originais e crus de cada ativo flutuam diretamente sobre suas respectivas fatias.
     *   **Aspect Ratio Perfeito**: Imagens redimensionadas sem achatamento ou distorções, usando o algoritmo de escala proporcional `.thumbnail` do PIL.
